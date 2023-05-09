@@ -1,0 +1,88 @@
+.container {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.form-container {
+    background-color: #EEEEEE;
+    margin-bottom: 3px;
+}
+
+.logo {
+    display: block;
+    width: 351;
+    height: 113;
+    margin: auto;
+
+}
+
+body {
+    background-color: #FFFFFF;
+    margin: 0;
+}
+
+.google-search {
+    display: block;
+    margin: auto;
+
+}
+
+.search-nav {
+    width: 37%;
+    height: 68px;
+    background-color: #7EE5DA;
+    float: left;
+    padding-top: 8px;
+}
+
+.help-nav {
+    width: 21.5%;
+    height: 71px;
+    margin-right: 0.25%;
+    margin-left: 0.25%;
+    padding-top: 5px;
+    background-color: #70CCC2;
+    float: left;
+    font-size: small;
+}
+
+.form-nav {
+    width: 41%;
+    height: 74px;
+    background-color: #62B3AA;
+    float: left;
+    font-size: small;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.btn {
+    padding: 0.20px;
+    padding-inline: 5px;
+    margin-right: 15px;
+}
+
+.clear {
+    clear: both;
+}
+
+.search-label {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.unstyled-list {
+    list-style: none;
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/padding-inline-start */
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.footer {
+    display: block;
+    text-align: center;
+    padding-top: 20px;
+    font-size: small;
+}
