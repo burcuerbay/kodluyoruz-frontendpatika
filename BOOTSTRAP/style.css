@@ -1,0 +1,27 @@
+body {
+    background-color: #E9E5D6;
+}
+
+.nav-link:hover {
+    color: #A9907E;
+}
+
+.nav-link.active {
+    background-color: #E9E5D6;
+    border-radius: 5px;
+}
+
+.navbar {
+    background-color: #acb992;
+    border-radius: 5px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: contain;
+}
+
+.footer {
+    background-color: #acb992;
+    border-radius: 5px;
+}
