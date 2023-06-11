@@ -1,0 +1,86 @@
+.top-color {
+    background-color: #FFC017;
+}
+
+.right-headline {
+    background-image: url(assets/mm-background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-link {
+    font-size: 14px;
+}
+
+.nav-item:not(:last-child) {
+    margin-right: 25px;
+}
+
+/* last-child icin farkli bir yazim sekli
+
+.nav-item {
+    margin-right: 25px;
+}
+.nav-item:last-child {
+    margin-right: unset;
+}
+
+*/
+.text-headline {
+    font-family: 'Tinos', serif;
+    font-size: 106px;
+    color: rgba(8, 8, 8, 1);
+    letter-spacing: -2px;
+}
+
+.btn-headline {
+    padding: 8px 20px;
+    width: 213px;
+}
+
+.container-headline {
+    padding: 40px 0px 39px;
+}
+
+.mid-text-headline {
+    margin: 20px 0px 40px;
+    font-size: 24px;
+    color: #292929;
+}
+
+.a-avatar {
+    width: 25px;
+    height: 25px;
+}
+
+.a-head {
+    font-size: 13px;
+    list-style: none;
+}
+
+.middle-container {
+    padding-top: 13px;
+    padding-bottom: 6px;
+}
+
+.bottom-container {
+    padding-top: 56px;
+}
+
+.aside-btn {
+    font-size: 16px;
+}
+
+.aside-info {
+    flex-wrap: wrap;
+    flex-direction: row;
+    display: flex;
+}
+.bookmark {
+    margin-left: auto;
+}
